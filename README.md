@@ -1,6 +1,6 @@
-# Simple 2D example data for clustering
+# Simple 2D example datasets for clustering
 
-Digitised exaples from this [towardsdatascience post](https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec).
+Digitised examples from this [towardsdatascience post](https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec).
 
 ## Datasets
 ![Cusion](img/cusion.png)
